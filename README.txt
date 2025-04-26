@@ -4,8 +4,8 @@ Prerequisiti
 
 Installazione e avvio
     1.Clona il repository
-        git clone <URL_DEL_TUO_REPOSITORY>
-        cd <CARTELLA_DEL_PROGETTO>
+        git clone https://github.com/MasteredChris/sleep-monitoring-app
+        cd sleep-monitoring-app
 
     2.Installa le dipendenze (includendo React, PapaParse e Recharts)
         npm install
